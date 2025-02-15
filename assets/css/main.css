@@ -5153,12 +5153,3 @@ body {
         box-shadow: none;
     }
 }
-
-.custom-color {
-    color: #000000; /* Color original del ícono */
-    transition: color 0.3s ease; /* Suaviza la transición de color */
-}
-
-.custom-color:hover {
-    color: #333333; /* Color cuando pasas el cursor por encima */
-}
